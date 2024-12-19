@@ -29,8 +29,8 @@ pip install -r requirements.txt
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/josuesmoody/FIB-per-Country.git
-cd FIB-per-Country
+git clone https://github.com/josuesmoody/FIB-per-Country-Analysis-Project.git
+cd FIB-per-Country-Analysis-Project
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
